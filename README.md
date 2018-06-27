@@ -1,4 +1,4 @@
-# scm-github
+# scm-github!
 [![Version][npm-image]][npm-url] ![Downloads][downloads-image] [![Build Status][status-image]][status-url] [![Open Issues][issues-image]][issues-url] [![Dependency Status][daviddm-image]][daviddm-url] ![License][license-image]
 
 > This scm plugin extends the [scm-base], and provides methods to fetch and update data in github.
